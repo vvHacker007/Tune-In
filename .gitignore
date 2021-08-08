@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.dist
+tune_in/__pycache__
+spotify/__pycache__
+frontend/__pycache__
+api/__pycache__
+api/migrations/
+spotify/migrations/
+frontend/migrations
+frontend/node_modules
+spotify/credentials.py
